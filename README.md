@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5F6B,100:39A5B7&height=200&section=header&text=Jo%C3%A3o%20Pedro%20Nobre&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20Analista%20de%20Sistemas%20%C2%B7%20Desenvolvimento%20com%20IA&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="João Pedro Nobre" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,55:FF6A3D,100:FFB37A&height=200&section=header&text=Jo%C3%A3o%20Pedro%20Nobre&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20Analista%20de%20Sistemas%20%C2%B7%20Desenvolvimento%20com%20IA&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="João Pedro Nobre" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39A5B7&center=true&vCenter=true&width=620&lines=Transformo+processos+manuais+em+sistemas+em+produ%C3%A7%C3%A3o;Do+requisito+ao+deploy%3A+dados%2C+API%2C+front-end+e+automa%C3%A7%C3%A3o;Desenvolvo+com+agentes+de+IA+(Claude+Code)+como+parte+do+time;Nada+entra+sem+testes+e+revis%C3%A3o" alt="Transformo processos manuais em sistemas em produção" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FF6A3D&center=true&vCenter=true&width=620&lines=Transformo+processos+manuais+em+sistemas+em+produ%C3%A7%C3%A3o;Do+requisito+ao+deploy%3A+dados%2C+API%2C+front-end+e+automa%C3%A7%C3%A3o;Desenvolvo+com+agentes+de+IA+(Claude+Code)+como+parte+do+time;Nada+entra+sem+testes+e+revis%C3%A3o" alt="Transformo processos manuais em sistemas em produção" />
 
-<a href="https://www.linkedin.com/in/joao-pedro-nobre/"><img src="https://img.shields.io/badge/LinkedIn-joao--pedro--nobre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:j.pnobre40@gmail.com"><img src="https://img.shields.io/badge/E--mail-j.pnobre40%40gmail.com-2A7B88?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<img src="https://img.shields.io/badge/Maca%C3%A9%2C%20RJ-Brasil-1F5F6B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Macaé, RJ" />
+<a href="https://www.linkedin.com/in/joao-pedro-nobre/"><img src="https://img.shields.io/badge/LinkedIn-joao--pedro--nobre-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=FF6A3D" alt="LinkedIn" /></a>
+<a href="mailto:j.pnobre40@gmail.com"><img src="https://img.shields.io/badge/E--mail-j.pnobre40%40gmail.com-0A0E1A?style=for-the-badge&logo=gmail&logoColor=FF6A3D" alt="E-mail" /></a>
+<img src="https://img.shields.io/badge/Maca%C3%A9%2C%20RJ-Brasil-0A0E1A?style=for-the-badge&logo=googlemaps&logoColor=FF6A3D" alt="Macaé, RJ" />
 
 </div>
 
@@ -23,13 +23,13 @@ Eu escrevo requisitos, regras de negócio e modelo de dados. Agentes de IA (Clau
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nobreaz/crm-agencias">CRM Agências</a></h3>
       SaaS multi-tenant para agências de marketing (meu TCC). Do repositório vazio à produção em <b>9 dias</b>, em uso por <b>2 agências</b>, com <b>230 testes</b> na API.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,nextjs,ts" height="32" alt="C#, .NET, PostgreSQL, Next.js, TypeScript" /><br/>
+      <img src="https://skillicons.dev/icons?theme=dark&i=cs,dotnet,postgres,nextjs,ts" height="32" alt="C#, .NET, PostgreSQL, Next.js, TypeScript" /><br/>
       <sub>Código privado (produto comercial). Demonstração sob pedido.</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nobreaz/gestor-frotas">Gestor de Frotas</a></h3>
       App que substitui o pedido de veículos por e-mail em uma empresa real. Reservas sem sobreposição no PostgreSQL, relatórios em SQL, push (FCM) e <b>mais de 90 testes</b>.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres,docker" height="32" alt="Flutter, Dart, Supabase, PostgreSQL, Docker" /><br/>
+      <img src="https://skillicons.dev/icons?theme=dark&i=flutter,dart,supabase,postgres,docker" height="32" alt="Flutter, Dart, Supabase, PostgreSQL, Docker" /><br/>
       <sub>Projeto em grupo da faculdade.</sub>
     </td>
   </tr>
@@ -37,12 +37,12 @@ Eu escrevo requisitos, regras de negócio e modelo de dados. Agentes de IA (Clau
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nobreaz/CarteiraApi">CarteiraApi</a></h3>
       API de carteira de investimentos: preço médio ponderado, débito e posição na mesma transação, <code>decimal</code> para dinheiro e DTOs contra overposting.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite" height="32" alt="C#, .NET, SQLite" />
+      <img src="https://skillicons.dev/icons?theme=dark&i=cs,dotnet,sqlite" height="32" alt="C#, .NET, SQLite" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nobreaz/forge-carros-template">TORQ</a></h3>
       Site e painel administrativo para concessionárias, com captura de leads e e-mails automáticos. Template da Forge Web Dev, minha marca de sites para negócios locais.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase" height="32" alt="Next.js, TypeScript, Tailwind, Supabase" />
+      <img src="https://skillicons.dev/icons?theme=dark&i=nextjs,ts,tailwind,supabase" height="32" alt="Next.js, TypeScript, Tailwind, Supabase" />
     </td>
   </tr>
 </table>
@@ -57,19 +57,19 @@ Eu escrevo requisitos, regras de negócio e modelo de dados. Agentes de IA (Clau
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart&perline=6" alt="Front-end" /><br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,postgres,supabase&perline=6" alt="Back-end e dados" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&perline=6" alt="Infra e ferramentas" />
+<img src="https://skillicons.dev/icons?theme=dark&i=nextjs,react,ts,tailwind,flutter,dart&perline=6" alt="Front-end" /><br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=cs,dotnet,nodejs,python,postgres,supabase&perline=6" alt="Back-end e dados" /><br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=docker,linux,nginx,git,github,vscode&perline=6" alt="Infra e ferramentas" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate" />
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square" alt="Power Apps" />
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square" alt="Microsoft Fabric" />
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/SQL%20Server-0A0E1A?style=flat-square&logo=microsoftsqlserver&logoColor=FF6A3D&labelColor=0A0E1A" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Power%20BI-0A0E1A?style=flat-square&logoColor=FF6A3D&labelColor=0A0E1A" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power%20Automate-0A0E1A?style=flat-square&logoColor=FF6A3D&labelColor=0A0E1A" alt="Power Automate" />
+<img src="https://img.shields.io/badge/Power%20Apps-0A0E1A?style=flat-square&logoColor=FF6A3D&labelColor=0A0E1A" alt="Power Apps" />
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0A0E1A?style=flat-square&logoColor=FF6A3D&labelColor=0A0E1A" alt="Microsoft Fabric" />
+<img src="https://img.shields.io/badge/Claude%20Code-0A0E1A?style=flat-square&logo=claude&logoColor=FF6A3D&labelColor=0A0E1A" alt="Claude Code" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5F6B,100:39A5B7&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB37A,45:FF6A3D,100:0A0E1A&height=110&section=footer" width="100%" alt="" />
