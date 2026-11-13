@@ -10,7 +10,7 @@ Eu escrevo requisitos, regras de negócio e modelo de dados. Agentes de IA (Clau
 
 ### Projetos em destaque
 
-**[Gestor de Frotas](https://github.com/nobreaz/mobile-project)**: app que substitui o pedido de veículos por e-mail em uma empresa real (projeto em grupo da faculdade).
+**[Gestor de Frotas](https://github.com/nobreaz/gestor-frotas)**: app que substitui o pedido de veículos por e-mail em uma empresa real (projeto em grupo da faculdade).
 Monorepo com Flutter, API REST em Dart (Dart Frog) e Supabase. Constraint `EXCLUDE` no PostgreSQL contra reservas sobrepostas, relatórios em SQL agregado, notificações push (FCM), API em Docker numa VPS e mais de 90 testes.
 
 **CRM Agências**: SaaS multi-tenant para agências de marketing (meu TCC).
