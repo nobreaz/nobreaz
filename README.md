@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF6A3D&center=true&vCenter=true&width=760&lines=Transformo+processos+manuais+em+sistemas+em+produ%C3%A7%C3%A3o;Do+requisito+ao+deploy%3A+dados%2C+API%2C+front-end+e+automa%C3%A7%C3%A3o;Desenvolvo+com+agentes+de+IA+(Claude+Code)+como+parte+do+time;Nada+entra+sem+testes+e+revis%C3%A3o" alt="Transformo processos manuais em sistemas em produção" />
-
 <a href="https://www.linkedin.com/in/joao-pedro-nobre/"><img src="https://img.shields.io/badge/LinkedIn-joao--pedro--nobre-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=FF6A3D" alt="LinkedIn" /></a>
 <a href="mailto:j.pnobre40@gmail.com"><img src="https://img.shields.io/badge/E--mail-j.pnobre40%40gmail.com-0A0E1A?style=for-the-badge&logo=gmail&logoColor=FF6A3D" alt="E-mail" /></a>
 <img src="https://img.shields.io/badge/Maca%C3%A9%2C%20RJ-Brasil-0A0E1A?style=for-the-badge&logo=googlemaps&logoColor=FF6A3D" alt="Macaé, RJ" />
